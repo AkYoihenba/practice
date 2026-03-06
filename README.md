@@ -1,4 +1,4 @@
 # practice
 this is my first Git Repository
 <br>
-Author-Ak Yoihenba
+Author-Ak Yoihenba meetei
